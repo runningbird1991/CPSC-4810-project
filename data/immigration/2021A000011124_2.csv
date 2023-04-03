@@ -1,0 +1,37 @@
+"Number and percentage of the immigrant population, Canada, 1871 to 2021"
+"Canada"
+Census years,Number,Percentage (%)
+"1871","594207","16"
+"1881","602984","13.9"
+"1891","643871","13.3"
+"1901","699500","13"
+"1911","1586961","22"
+"1921","1955736","22.3"
+"1931","2307525","22.3"
+"1941","2018847","17.5"
+"1951","2059911","14.7"
+"1961","2844263","15.6"
+"1971","3295530","15.3"
+"1981","3843335","16"
+"1991","4342890","16.1"
+"2001","5448480","18.4"
+"2006","6186950","19.8"
+"2011","6775770","20.6"
+"2016","7540830","21.9"
+"2021","8361505","23"
+
+Symbols:
+..,not available for a specific reference period
+...,not applicable
+E,use with caution
+F,too unreliable to be published
+r, revised
+x,suppressed to meet the confidentiality requirements of the Statistics Act
+rE,Revised. Use with caution.
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+"How to cite: Statistics Canada. 2022. Focus on Geography Series. 2021 Census."
+"Statistics Canada Catalogue no. 98-404-X2016001. Ottawa, Ontario. Release date: February 9, 2022. Updated on: November 30, 2022."
+"http://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/index.cfm?Lang=E"
+

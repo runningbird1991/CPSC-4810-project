@@ -1,0 +1,48 @@
+﻿"Estimates of the components of demographic growth, annual 1"
+"Frequency: Annual"
+"Table: 17-10-0008-01 (formerly CANSIM 051-0004)"
+"Release date: 2022-09-28"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,,,,,,,,
+"Components of population growth","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021","2021 / 2022"
+,"Persons",,,,,,,,,,,,,,,,,,,,,
+"Births 2 3","327,107","328,155","330,523","337,762","339,270","346,082","360,916","373,695","379,290","379,373","376,951","378,840","381,607","382,281","383,315","383,579","379,906","376,750","372,868","371,059","361,613","368,792"
+"Deaths 4 5","219,114","220,494","223,905","228,829","229,906","225,489","233,825","236,525","237,708","237,138","245,495","242,410","251,656","253,052","266,161","262,087","274,263","283,760","282,891","296,806","306,465","323,221"
+"Immigrants 6","252,527","256,405","199,170","239,083","244,578","254,374","238,125","249,622","245,289","270,581","259,110","260,036","263,101","267,924","240,763","323,192","272,707","303,325","313,601","284,157","226,308","492,984"
+"Emigrants 7 8","47,766","50,149","53,890","58,184","57,633","61,412","66,512","66,158","61,531","58,046","61,466","65,393","62,129","63,722","65,837","67,893","58,630","50,580","47,337","34,835","35,838","49,769"
+"Returning emigrants 8 9","17,910","25,727","29,257","30,441","31,620","34,711","39,235","33,576","32,069","34,496","37,126","37,170","36,994","36,889","38,458","39,660","39,756","39,117","39,091","30,126","34,933","40,326"
+"Net temporary emigrants 8 10","25,563","27,558","27,559","27,560","27,559","27,558","18,523","18,525","18,529","18,524","18,522","26,663","26,667","26,668","26,665","26,664","26,970","27,294","27,687","25,109","18,842","30,946"
+"Net interprovincial migration 11","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"Net non-permanent residents 12 13 14","39,592","33,510","36,771","10,348","9,148","15,978","27,424","51,478","71,886","34,243","14,733","55,414","49,521","32,867","-16,365","35,752","103,243","162,290","168,501","77,344","-42,377","205,238"
+"Residual deviation 15","9,521","6,419","6,418","6,434","6,420","9,265","28,989","29,070","28,989","28,991","27,998","22,100","22,039","22,038","22,035","18,960","0","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"Period from July 1 to June 30."
+2,"The number of births is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+3,"Starting in January 2022, estimates of births are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601). Before January 2022, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3231). However, before January 2011, the final estimates included in this table may differ from Vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory). Due to incomplete births data in 2021, births data from Vital Statistics were estimated for Nova Scotia for November and December and for Manitoba for the whole year."
+4,"The number of deaths is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+5,"Starting in January 2021, estimates of deaths are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601), incorporating provisional deaths data from the Centre for Population Health Data. Before January 2021, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3233). However, before January 2011, the estimates included in this table may differ from Vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory)."
+6,"The number of immigrants is final up to 2020/2021 and preliminary for 2021/2022."
+7,"The number of emigrants is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+8,"Please note that due to the methodology used for the estimates of the emigration, the returning emigration and the net temporary emigration, the estimates for the most recent periods are expected to be identical or very similar."
+9,"The number of returning emigrants is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+10,"The net temporary emigrants is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+11,"The net interprovincial migration is final up to 2020/2021 and preliminary for 2021/2022."
+12,"A non-permanent resident is a person who is legally in Canada on a temporary basis under a valid document (work permit, study permit, other permit) for that person along with members of their family living with them. This group also includes individuals who seek refugee status upon or after their arrival in Canada and remain in the country pending the outcome of processes relative to their claim."
+13,"The net non-permanent residents is final up to 2019/2020, updated for 2020/2021 and preliminary for 2021/2022."
+14,"Due to the use of a different methodology and data file version, the net non-permanent resident estimates presented in this table may differ from those released by Immigration, Refugees and Citizenship Canada (IRCC)."
+15,"Residual deviation is obtained by distributing the error of closure linearly throughout the intercensal period. The error of closure is defined as the difference between the postcensal population estimates on Census Day and the population enumerated in that census adjusted for census net undercoverage and incompletely enumerated reserves."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0008-01  Estimates of the components of demographic growth, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801
